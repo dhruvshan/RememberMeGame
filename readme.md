@@ -1,0 +1,2 @@
+This is the Simon say/Remember me game from The Complete Web Development Bootcamp Udemy course.
+The objective of this game is simple. The system will showcases a particular colour (and accompanying sound) and your job is to remember the order and repeat the sequence
